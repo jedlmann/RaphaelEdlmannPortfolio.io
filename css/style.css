@@ -927,6 +927,7 @@ body.offcanvas {
       color: #2c98f0; }
 
 .project {
+  border: 0.5px solid gray ;
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
